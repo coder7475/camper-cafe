@@ -1,0 +1,15 @@
+h1, h2, p {
+    text-align: center;
+}
+
+body{
+    background-image: url("./assets/beans.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    margin: 0% auto;
+}
